@@ -2,7 +2,7 @@ import java.util.*;
 
 public class Addition{
     public static void main(String args[]) {
-        int x, y, sum,p;
+        int x, y, sum,p,i;
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the first number: ");
         x = sc.nextInt();
