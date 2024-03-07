@@ -1,4 +1,3 @@
-package Operator;
 import java.util.Scanner;
 
 
