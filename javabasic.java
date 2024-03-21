@@ -7,6 +7,7 @@ public class javabasic {
         int a = sc.nextInt();
         System.out.println("Enter you number second");
         int b = sc.nextInt();
+        sc.close();
         int c =  a + b;
         System.out.println("The Sum of a and b: "+ c);
         System.out.print("This is sum of a and b: "+ c);
